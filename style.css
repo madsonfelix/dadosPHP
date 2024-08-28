@@ -1,0 +1,32 @@
+header{
+    margin-top: 10%;
+    margin-left: 10%;
+}
+main{
+    font-size: 15pt;
+    margin-top: 10%;
+    padding-left: 35%;
+}
+
+a:link {
+    color: rgb(0, 90, 20);
+}
+a:visited {
+    color: purple;
+}
+a:hover {
+    color: green;
+}
+a:active {
+    color: rgb(255, 251, 0);
+}
+
+#titulo{
+    font-size: 40pt;
+}
+#subtitulo{
+    font-size: 20pt;
+}
+#linkLogin{
+    padding-left: 20%;
+}
